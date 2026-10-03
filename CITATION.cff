@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Tesla Model 3 and Model Y OE cross-reference"
+authors:
+  - name: "MapleV"
+    website: "https://maplev.ca/"
+date-released: 2026-10-02
+url: "https://maplev.ca/oe-lookup/"
+license: CC-BY-4.0
+keywords:
+  - Tesla
+  - Model 3
+  - Model Y
+  - OE part numbers
+  - collision parts
+  - cross-reference
