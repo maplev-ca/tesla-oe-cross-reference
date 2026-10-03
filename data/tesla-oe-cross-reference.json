@@ -6,10 +6,13 @@
   "credit": "Tesla OE cross-reference by MapleV (maplev.ca)",
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
-  "as_of": "2026-10-02",
+  "as_of": "2026-10-03",
   "parts": 282,
   "oe_numbers": 513,
-  "base_numbers": 343
+  "base_numbers": 343,
+  "parts_with_partslink": 76,
+  "partslink_numbers": 69,
+  "partslink_note": "Partslink numbers are listed for identification and cross-reference only. Partslink is a numbering system of the Automotive Body Parts Association (ABPA) and is not covered by this licence."
  },
  "parts": [
   {
@@ -37,6 +40,7 @@
     "1084168",
     "1916697"
    ],
+   "partslink": "TA1000101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-fascia-unpainted-with-park-assist-sensor-holes-1084168-s0-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-fascia-unpainted-with-park-assist-sensor-holes-1084168-s0-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -68,6 +72,7 @@
     "1084168",
     "1916697"
    ],
+   "partslink": "TA1000101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-fascia-unpainted-with-park-assist-sensor-holes-with-logo-1084168-s0-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-fascia-unpainted-with-park-assist-sensor-holes-with-logo-1084168-s0-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -97,6 +102,7 @@
     "1916699",
     "1519965"
    ],
+   "partslink": "TA1000104",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-fascia-unpainted-without-park-assist-sensor-holes-1916699-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-fascia-unpainted-without-park-assist-sensor-holes-1916699-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -126,6 +132,7 @@
     "1916699",
     "1519965"
    ],
+   "partslink": "TA1000104",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-fascia-unpainted-without-park-assist-sensor-holes-with-logo-1916699-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-fascia-unpainted-without-park-assist-sensor-holes-with-logo-1916699-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -156,6 +163,7 @@
     "1453375",
     "1453377"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-headlamp-bracket-sae-left-1453375-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-headlamp-bracket-sae-left-1453375-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -186,6 +194,7 @@
     "1453376",
     "1453378"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-headlamp-bracket-sae-right-1453376-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-headlamp-bracket-sae-right-1453376-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -214,6 +223,7 @@
    "base_numbers": [
     "1812092"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-headlamp-bracket-global-left-1812092-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-headlamp-bracket-global-left-1812092-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -242,6 +252,7 @@
    "base_numbers": [
     "1812093"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-headlamp-bracket-global-right-1812093-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-headlamp-bracket-global-right-1812093-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -269,6 +280,7 @@
    "base_numbers": [
     "1104669"
    ],
+   "partslink": "TA1070100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-energy-absorber-foam-1104669-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-energy-absorber-foam-1104669-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -296,6 +308,7 @@
    "base_numbers": [
     "1104540"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-wheel-liner-reinforcement-bracket-left-1104540-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-wheel-liner-reinforcement-bracket-left-1104540-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -323,6 +336,7 @@
    "base_numbers": [
     "1104541"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-wheel-liner-reinforcement-bracket-right-1104541-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-wheel-liner-reinforcement-bracket-right-1104541-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -351,6 +365,7 @@
    "base_numbers": [
     "1084181"
    ],
+   "partslink": "TA1042103",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-side-bracket-left-1084181-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-side-bracket-left-1084181-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -379,6 +394,7 @@
    "base_numbers": [
     "1084182"
    ],
+   "partslink": "TA1043103",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-side-bracket-right-1084182-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-side-bracket-right-1084182-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -406,6 +422,7 @@
    "base_numbers": [
     "1084171"
    ],
+   "partslink": "TA1042102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-center-bracket-left-1084171-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-center-bracket-left-1084171-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -433,6 +450,7 @@
    "base_numbers": [
     "1084172"
    ],
+   "partslink": "TA1043102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-center-bracket-right-1084172-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-center-bracket-right-1084172-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -461,6 +479,7 @@
    "base_numbers": [
     "1085927"
    ],
+   "partslink": "TA1036100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-lower-grille-1085927-01-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-lower-grille-1085927-01-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -488,6 +507,7 @@
    "base_numbers": [
     "1916698"
    ],
+   "partslink": "TA1100100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-bumper-fascia-unpainted-with-park-assist-sensor-holes-1916698-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-bumper-fascia-unpainted-with-park-assist-sensor-holes-1916698-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -515,6 +535,7 @@
    "base_numbers": [
     "1916698"
    ],
+   "partslink": "TA1100100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-bumper-fascia-unpainted-with-park-assist-sensor-holes-with-logo-1916698-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-bumper-fascia-unpainted-with-park-assist-sensor-holes-with-logo-1916698-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -542,6 +563,7 @@
    "base_numbers": [
     "1083983"
    ],
+   "partslink": "TA1100101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-bumper-fascia-unpainted-without-park-assist-sensor-holes-1083983-s0-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-bumper-fascia-unpainted-without-park-assist-sensor-holes-1083983-s0-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -569,6 +591,7 @@
    "base_numbers": [
     "1083983"
    ],
+   "partslink": "TA1100101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-bumper-fascia-unpainted-without-park-assist-sensor-holes-with-logo-1083983-s0-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-bumper-fascia-unpainted-without-park-assist-sensor-holes-with-logo-1083983-s0-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -599,6 +622,7 @@
    "base_numbers": [
     "1098751"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-air-extractor-1098751-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-air-extractor-1098751-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -626,6 +650,7 @@
    "base_numbers": [
     "1103035"
    ],
+   "partslink": "TA1195100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-bumper-lower-spoiler-1103035-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-bumper-lower-spoiler-1103035-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -653,6 +678,7 @@
    "base_numbers": [
     "1121191"
    ],
+   "partslink": "TA1140100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-bumper-center-bracket-1121191-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-bumper-center-bracket-1121191-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -680,6 +706,7 @@
    "base_numbers": [
     "1083988"
    ],
+   "partslink": "TA1142100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-wing-bracket-assembly-left-1083988-00-k/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-wing-bracket-assembly-left-1083988-00-k/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -707,6 +734,7 @@
    "base_numbers": [
     "1083989"
    ],
+   "partslink": "TA1143100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-wing-bracket-assembly-right-1083989-00-k/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-wing-bracket-assembly-right-1083989-00-k/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -734,6 +762,7 @@
    "base_numbers": [
     "1083992"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-tail-lamp-bracket-left-1083992-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-tail-lamp-bracket-left-1083992-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -761,6 +790,7 @@
    "base_numbers": [
     "1083993"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-tail-lamp-bracket-right-1083993-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-tail-lamp-bracket-right-1083993-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -789,6 +819,7 @@
    "base_numbers": [
     "1084174"
    ],
+   "partslink": "TA1228100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-lower-valance-1084174-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-lower-valance-1084174-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -823,6 +854,7 @@
     "1499151",
     "1622740"
    ],
+   "partslink": "TA1228103",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-aero-shield-splash-guard-1499151-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-aero-shield-splash-guard-1499151-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -856,6 +888,7 @@
     "1498771",
     "1104313"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-rear-aero-shield-1498771-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-rear-aero-shield-1498771-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -885,6 +918,7 @@
     "1135410",
     "1137819"
    ],
+   "partslink": "TA1228102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-bumper-diffuser-1135410-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-bumper-diffuser-1135410-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -913,6 +947,7 @@
    "base_numbers": [
     "1089828"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rocker-cover-assembly-left-1089828-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rocker-cover-assembly-left-1089828-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -941,6 +976,7 @@
    "base_numbers": [
     "1089829"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rocker-cover-assembly-right-1089829-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rocker-cover-assembly-right-1089829-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -971,6 +1007,7 @@
     "1607951",
     "1131028"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-washer-reservoir-cap-1607951-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-washer-reservoir-cap-1607951-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1000,6 +1037,7 @@
     "1110240",
     "1610864"
    ],
+   "partslink": "TA1225100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-radiator-support-front-bumper-carrier-assembly-1110240-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-radiator-support-front-bumper-carrier-assembly-1110240-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1027,6 +1065,7 @@
    "base_numbers": [
     "1081675"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-trunk-frunk-apron-rear-1081675-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-trunk-frunk-apron-rear-1081675-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1055,6 +1094,7 @@
    "base_numbers": [
     "1076732"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-active-grille-shutter-assembly-1076732-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-active-grille-shutter-assembly-1076732-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1082,6 +1122,7 @@
    "base_numbers": [
     "1509565"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-trunk-frunk-1509565-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-trunk-frunk-1509565-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1109,6 +1150,7 @@
    "base_numbers": [
     "1645355"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-trunk-frunk-closeout-panel-1645355-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-trunk-frunk-closeout-panel-1645355-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1138,6 +1180,7 @@
    "base_numbers": [
     "1081581"
    ],
+   "partslink": "TA1248100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-wheel-liner-left-1081581-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-wheel-liner-left-1081581-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1167,6 +1210,7 @@
    "base_numbers": [
     "1081582"
    ],
+   "partslink": "TA1249100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-wheel-liner-right-1081582-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-wheel-liner-right-1081582-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1196,6 +1240,7 @@
    "base_numbers": [
     "1081583"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-wheel-liner-assembly-left-1081583-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-wheel-liner-assembly-left-1081583-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1225,6 +1270,7 @@
    "base_numbers": [
     "1081584"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-wheel-liner-assembly-right-1081584-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-wheel-liner-assembly-right-1081584-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1254,6 +1300,7 @@
     "2013442",
     "1694314"
    ],
+   "partslink": "TA1000105",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-upper-fascia-unpainted-2013442-s0-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-upper-fascia-unpainted-2013442-s0-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1283,6 +1330,7 @@
     "2013442",
     "1694314"
    ],
+   "partslink": "TA1000105",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-upper-fascia-unpainted-with-logo-2013442-s0-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-upper-fascia-unpainted-with-logo-2013442-s0-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1310,6 +1358,7 @@
    "base_numbers": [
     "2040184"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-headlamp-bracket-left-2040184-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-headlamp-bracket-left-2040184-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1337,6 +1386,7 @@
    "base_numbers": [
     "2040185"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-headlamp-bracket-right-2040185-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-headlamp-bracket-right-2040185-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1366,6 +1416,7 @@
     "1694311",
     "2145023"
    ],
+   "partslink": "TA1036102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-lower-grille-front-fascia-1694311-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-lower-grille-front-fascia-1694311-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1395,6 +1446,7 @@
    "base_numbers": [
     "1774268"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-side-bracket-left-1774268-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-side-bracket-left-1774268-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1424,6 +1476,7 @@
    "base_numbers": [
     "1774269"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-side-bracket-right-1774269-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-side-bracket-right-1774269-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1451,6 +1504,7 @@
    "base_numbers": [
     "1734299"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-center-bracket-left-1734299-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-center-bracket-left-1734299-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1478,6 +1532,7 @@
    "base_numbers": [
     "1734300"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-center-bracket-right-1734300-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-center-bracket-right-1734300-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1506,6 +1561,7 @@
    "base_numbers": [
     "1694316"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-tow-hook-cover-1694316-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-tow-hook-cover-1694316-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1534,6 +1590,7 @@
    "base_numbers": [
     "1694328"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-ankle-catcher-1694328-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-ankle-catcher-1694328-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1561,6 +1618,7 @@
    "base_numbers": [
     "1694328"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-ankle-catcher-bracket-left-1694328-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-ankle-catcher-bracket-left-1694328-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1588,6 +1646,7 @@
    "base_numbers": [
     "1694328"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-ankle-catcher-bracket-right-1694328-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-ankle-catcher-bracket-right-1694328-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1616,6 +1675,7 @@
    "base_numbers": [
     "1741046"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-bumper-beam-foam-1741046-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-bumper-beam-foam-1741046-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1643,6 +1703,7 @@
    "base_numbers": [
     "1711743"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-radiator-support-front-bumper-carrier-assembly-1711743-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-radiator-support-front-bumper-carrier-assembly-1711743-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1671,6 +1732,7 @@
    "base_numbers": [
     "1694493"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-trunk-frunk-liner-assembly-1694493-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-trunk-frunk-liner-assembly-1694493-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1700,6 +1762,7 @@
     "1982487",
     "1713288"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-trunk-frunk-access-panel-1982487-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-trunk-frunk-access-panel-1982487-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1728,6 +1791,7 @@
    "base_numbers": [
     "1559787"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-active-grille-shutter-assembly-1559787-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-active-grille-shutter-assembly-1559787-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1758,6 +1822,7 @@
     "1694313",
     "1771474"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-lower-shield-1694313-99-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-lower-shield-1694313-99-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1787,6 +1852,7 @@
     "1582583",
     "1784689"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-diffuser-1582583-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-diffuser-1582583-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1816,6 +1882,7 @@
     "1713689",
     "1784692"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-tow-hitch-cover-1713689-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-tow-hitch-cover-1713689-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1846,6 +1913,7 @@
     "2013443",
     "1582571"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-upper-fascia-unpainted-2013443-s0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-upper-fascia-unpainted-2013443-s0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1876,6 +1944,7 @@
     "2013443",
     "1582571"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-upper-fascia-unpainted-with-logo-2013443-s0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-upper-fascia-unpainted-with-logo-2013443-s0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1905,6 +1974,7 @@
     "1582574",
     "2058358"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-tow-hook-cover-1582574-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-tow-hook-cover-1582574-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1933,6 +2003,7 @@
    "base_numbers": [
     "1582581"
    ],
+   "partslink": "TA1115101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-lower-fascia-1582581-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-lower-fascia-1582581-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1961,6 +2032,7 @@
    "base_numbers": [
     "1755642"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-tail-lamp-bracket-left-1755642-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-tail-lamp-bracket-left-1755642-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -1989,6 +2061,7 @@
    "base_numbers": [
     "1755643"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-tail-lamp-bracket-right-1755643-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-tail-lamp-bracket-right-1755643-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2016,6 +2089,7 @@
    "base_numbers": [
     "1762734"
    ],
+   "partslink": "TA1142102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-wing-bracket-assembly-left-1762734-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-wing-bracket-assembly-left-1762734-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2043,6 +2117,7 @@
    "base_numbers": [
     "1762735"
    ],
+   "partslink": "TA1143102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-wing-bracket-assembly-right-1762735-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-wing-bracket-assembly-right-1762735-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2071,6 +2146,7 @@
    "base_numbers": [
     "1757096"
    ],
+   "partslink": "TA1140101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-fascia-center-bracket-1757096-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-fascia-center-bracket-1757096-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2098,6 +2174,7 @@
    "base_numbers": [
     "1694553"
    ],
+   "partslink": "TA1248104",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-wheel-arch-liner-assembly-left-1694553-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-wheel-arch-liner-assembly-left-1694553-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2125,6 +2202,7 @@
    "base_numbers": [
     "1694557"
    ],
+   "partslink": "TA1249104",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-wheel-arch-liner-assembly-right-1694557-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-wheel-arch-liner-assembly-right-1694557-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2157,6 +2235,7 @@
     "1818915",
     "1818918"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-upper-fascia-unpainted-performance-2013441-s0-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-upper-fascia-unpainted-performance-2013441-s0-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2184,6 +2263,7 @@
    "base_numbers": [
     "1818924"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-lower-fascia-performance-1818924-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-lower-fascia-performance-1818924-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2213,6 +2293,7 @@
     "1937542",
     "1818923"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-lower-grille-performance-1937542-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-lower-grille-performance-1937542-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2241,6 +2322,7 @@
    "base_numbers": [
     "1831979"
    ],
+   "partslink": "TA1115102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-lower-fascia-performance-1831979-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-lower-fascia-performance-1831979-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2272,6 +2354,7 @@
     "1818925",
     "1818922"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-bumper-lower-valance-performance-1818925-00-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-bumper-lower-valance-performance-1818925-00-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2302,6 +2385,7 @@
     "1831986",
     "1831981"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-diffuser-performance-1831986-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-diffuser-performance-1831986-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2329,6 +2413,7 @@
    "base_numbers": [
     "1831984"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-tow-hitch-cover-performance-1831984-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-tow-hitch-cover-performance-1831984-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2357,6 +2442,7 @@
    "base_numbers": [
     "1772362"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-ankle-catcher-performance-1772362-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-ankle-catcher-performance-1772362-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2389,6 +2475,7 @@
     "1493745",
     "1687994"
    ],
+   "partslink": "TA1000103",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-bumper-fascia-unpainted-without-sensor-holes-1493736-s0-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-bumper-fascia-unpainted-without-sensor-holes-1493736-s0-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2416,6 +2503,7 @@
    "base_numbers": [
     "1493736"
    ],
+   "partslink": "TA1000102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-bumper-fascia-unpainted-with-sensor-holes-1493736-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-bumper-fascia-unpainted-with-sensor-holes-1493736-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2444,6 +2532,7 @@
    "base_numbers": [
     "1493770"
    ],
+   "partslink": "TA1042105",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-fender-bumper-bracket-left-1493770-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-fender-bumper-bracket-left-1493770-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2472,6 +2561,7 @@
    "base_numbers": [
     "1493771"
    ],
+   "partslink": "TA1043105",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-fender-bumper-bracket-right-1493771-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-fender-bumper-bracket-right-1493771-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2499,6 +2589,7 @@
    "base_numbers": [
     "1493772"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-fender-bumper-bracket-left-1493772-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-fender-bumper-bracket-left-1493772-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2526,6 +2617,7 @@
    "base_numbers": [
     "1493773"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-fender-bumper-bracket-right-1493773-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-fender-bumper-bracket-right-1493773-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2554,6 +2646,7 @@
    "base_numbers": [
     "1493759"
    ],
+   "partslink": "TA1036101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-bumper-lower-center-grille-1493759-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-bumper-lower-center-grille-1493759-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2582,6 +2675,7 @@
    "base_numbers": [
     "1487605"
    ],
+   "partslink": "TA1070101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-reinforcement-impact-energy-absorber-foam-1487605-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-reinforcement-impact-energy-absorber-foam-1487605-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2609,6 +2703,7 @@
    "base_numbers": [
     "1492606"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-trunk-frunk-1492606-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-trunk-frunk-1492606-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2637,6 +2732,7 @@
    "base_numbers": [
     "1494086"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-frunk-panel-1494086-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-frunk-panel-1494086-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2664,6 +2760,7 @@
    "base_numbers": [
     "1493735"
    ],
+   "partslink": "TA1114100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-bumper-fascia-unpainted-with-sensor-holes-1493735-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-bumper-fascia-unpainted-with-sensor-holes-1493735-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2693,6 +2790,7 @@
    "base_numbers": [
     "1493735"
    ],
+   "partslink": "TA1114101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-bumper-fascia-unpainted-without-sensor-holes-1493735-s0-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-bumper-fascia-unpainted-without-sensor-holes-1493735-s0-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2722,6 +2820,7 @@
    "base_numbers": [
     "1494006"
    ],
+   "partslink": "TA1115100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-lower-bumper-cover-1494006-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-lower-bumper-cover-1494006-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2751,6 +2850,7 @@
    "base_numbers": [
     "1494009"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-lower-bumper-tow-hitch-cap-1494009-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-lower-bumper-tow-hitch-cap-1494009-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2778,6 +2878,7 @@
    "base_numbers": [
     "1494426"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-tow-hook-cover-rear-bumper-1494426-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-tow-hook-cover-rear-bumper-1494426-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2805,6 +2906,7 @@
    "base_numbers": [
     "1494043"
    ],
+   "partslink": "TA1142101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-wing-bracket-assembly-left-1494043-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-wing-bracket-assembly-left-1494043-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2832,6 +2934,7 @@
    "base_numbers": [
     "1494044"
    ],
+   "partslink": "TA1143101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-wing-bracket-assembly-right-1494044-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-wing-bracket-assembly-right-1494044-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2859,6 +2962,7 @@
    "base_numbers": [
     "1494045"
    ],
+   "partslink": "TA1140102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-bumper-center-mount-support-bracket-1494045-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-bumper-center-mount-support-bracket-1494045-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2889,6 +2993,7 @@
    "base_numbers": [
     "1508656"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-lower-trunk-assembly-1508656-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-lower-trunk-assembly-1508656-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2916,6 +3021,7 @@
    "base_numbers": [
     "1506968"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-tail-lamp-bracket-assembly-left-1506968-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-tail-lamp-bracket-assembly-left-1506968-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2943,6 +3049,7 @@
    "base_numbers": [
     "1506969"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-tail-lamp-bracket-assembly-right-1506969-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-tail-lamp-bracket-assembly-right-1506969-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2972,6 +3079,7 @@
     "1660026",
     "1495245"
    ],
+   "partslink": "TA1225101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-end-carrier-1660026-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-end-carrier-1660026-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -2999,6 +3107,7 @@
    "base_numbers": [
     "1514466"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-end-module-bracket-1514466-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-end-module-bracket-1514466-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3029,6 +3138,7 @@
     "1613579",
     "1493774"
    ],
+   "partslink": "TA1228104",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-bumper-lower-valance-shield-cover-panel-1613579-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-bumper-lower-valance-shield-cover-panel-1613579-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3057,6 +3167,7 @@
    "base_numbers": [
     "1494007"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-bumper-lower-valance-1494007-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-bumper-lower-valance-1494007-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3085,6 +3196,7 @@
    "base_numbers": [
     "1619812"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-trunk-frunk-apron-1619812-98-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-trunk-frunk-apron-1619812-98-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3113,6 +3225,7 @@
    "base_numbers": [
     "1492603"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-cowl-screen-1492603-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-cowl-screen-1492603-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3141,6 +3254,7 @@
    "base_numbers": [
     "1497740"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rocker-cover-assembly-left-1497740-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rocker-cover-assembly-left-1497740-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3169,6 +3283,7 @@
    "base_numbers": [
     "1497744"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rocker-cover-assembly-right-1497744-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rocker-cover-assembly-right-1497744-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3198,6 +3313,7 @@
     "1497741",
     "1625377"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rocker-carrier-left-1497741-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rocker-carrier-left-1497741-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3227,6 +3343,7 @@
     "1497745",
     "1625379"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rocker-carrier-right-1497745-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rocker-carrier-right-1497745-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3256,6 +3373,7 @@
     "1634325",
     "1494159"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-active-grille-shutter-1634325-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-active-grille-shutter-1634325-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3283,6 +3401,7 @@
    "base_numbers": [
     "1493635"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-suspension-aero-cover-left-1493635-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-suspension-aero-cover-left-1493635-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3310,6 +3429,7 @@
    "base_numbers": [
     "1493636"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-suspension-aero-cover-right-1493636-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-suspension-aero-cover-right-1493636-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3340,6 +3460,7 @@
     "1683859",
     "1494185"
    ],
+   "partslink": "TA1290101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-fender-garnish-left-1683859-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-fender-garnish-left-1683859-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3370,6 +3491,7 @@
     "1683860",
     "1494186"
    ],
+   "partslink": "TA1291101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-fender-garnish-right-1683860-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-fender-garnish-right-1683860-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3402,6 +3524,7 @@
     "1494187",
     "1732553"
    ],
+   "partslink": "TA1790102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-fender-garnish-left-1683861-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-fender-garnish-left-1683861-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3434,6 +3557,7 @@
     "1494188",
     "1732554"
    ],
+   "partslink": "TA1791102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-fender-garnish-right-1683862-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-fender-garnish-right-1683862-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3464,6 +3588,7 @@
     "1492613",
     "1744361"
    ],
+   "partslink": "TA1248101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-wheel-liner-left-1492613-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-wheel-liner-left-1492613-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3494,6 +3619,7 @@
     "1492614",
     "1744362"
    ],
+   "partslink": "TA1249101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-wheel-liner-right-1492614-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-wheel-liner-right-1492614-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3524,6 +3650,7 @@
     "1492615",
     "1755488"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-wheel-liner-left-1492615-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-wheel-liner-left-1492615-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3554,6 +3681,7 @@
     "1492616",
     "1755489"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-wheel-liner-right-1492616-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-wheel-liner-right-1492616-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3583,6 +3711,7 @@
     "1993051",
     "1932380"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-bumper-unpainted-1993051-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-bumper-unpainted-1993051-s0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3610,6 +3739,7 @@
    "base_numbers": [
     "1932384"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-bumper-lower-1932384-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-bumper-lower-1932384-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3637,6 +3767,7 @@
    "base_numbers": [
     "1983887"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-bumper-side-bracket-left-1983887-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-bumper-side-bracket-left-1983887-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3664,6 +3795,7 @@
    "base_numbers": [
     "1983888"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-bumper-side-bracket-right-1983888-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-bumper-side-bracket-right-1983888-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3695,6 +3827,7 @@
     "1983889",
     "2226160"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-grille-1983889-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-grille-1983889-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3722,6 +3855,7 @@
    "base_numbers": [
     "1949866"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-ankle-catcher-1949866-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-ankle-catcher-1949866-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3751,6 +3885,7 @@
     "1997925",
     "2191876"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-bumper-beam-foam-1997925-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-bumper-beam-foam-1997925-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3780,6 +3915,7 @@
     "1974875",
     "1917250"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-radiator-support-1974875-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-radiator-support-1974875-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3812,6 +3948,7 @@
     "1982488",
     "1982490"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-active-grille-shutter-1982489-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-active-grille-shutter-1982489-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3841,6 +3978,7 @@
    "base_numbers": [
     "1930438"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-trunk-frunk-apron-1930438-01-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-trunk-frunk-apron-1930438-01-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3870,6 +4008,7 @@
    "base_numbers": [
     "1930436"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-frunk-assembly-1930436-01-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-frunk-assembly-1930436-01-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3898,6 +4037,7 @@
    "base_numbers": [
     "1932601"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-bumper-side-unpainted-left-1932601-pd-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-bumper-side-unpainted-left-1932601-pd-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3926,6 +4066,7 @@
    "base_numbers": [
     "1932602"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-bumper-side-unpainted-right-1932602-pd-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-bumper-side-unpainted-right-1932602-pd-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3959,6 +4100,7 @@
     "1947151",
     "2137459"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-lower-bumper-1932665-tt-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-lower-bumper-1932665-tt-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -3987,6 +4129,7 @@
    "base_numbers": [
     "1932605"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-lower-bumper-tow-hitch-cover-1932605-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-lower-bumper-tow-hitch-cover-1932605-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4017,6 +4160,7 @@
     "1932677",
     "2186187"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-wing-bracket-left-1932677-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-wing-bracket-left-1932677-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4047,6 +4191,7 @@
     "1932678",
     "2186186"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-wing-bracket-right-1932678-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-wing-bracket-right-1932678-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4078,6 +4223,7 @@
     "2025661",
     "1932386"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-bumper-lower-shield-2025661-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-bumper-lower-shield-2025661-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4107,6 +4253,7 @@
     "1932675",
     "1932603"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-bumper-lower-shield-1932675-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-bumper-lower-shield-1932675-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4136,6 +4283,7 @@
     "1921724",
     "2018346"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rocker-cover-outer-left-1921724-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rocker-cover-outer-left-1921724-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4165,6 +4313,7 @@
     "1921725",
     "2018347"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rocker-cover-outer-right-1921725-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rocker-cover-outer-right-1921725-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4192,6 +4341,7 @@
    "base_numbers": [
     "1937597"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-fender-garnish-left-1937597-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-fender-garnish-left-1937597-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4219,6 +4369,7 @@
    "base_numbers": [
     "1937599"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-fender-garnish-right-1937599-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-fender-garnish-right-1937599-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4246,6 +4397,7 @@
    "base_numbers": [
     "1937594"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-fender-garnish-left-1937594-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-fender-garnish-left-1937594-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4273,6 +4425,7 @@
    "base_numbers": [
     "1937596"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-fender-garnish-right-1937596-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-fender-garnish-right-1937596-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4304,6 +4457,7 @@
     "2097952",
     "2186182"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-bumper-center-bracket-1983839-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-bumper-center-bracket-1983839-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4335,6 +4489,7 @@
     "2124414",
     "2186180"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-tail-lamp-bracket-left-1932679-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-tail-lamp-bracket-left-1932679-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4366,6 +4521,7 @@
     "2124415",
     "2186181"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-tail-lamp-bracket-right-1932681-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-tail-lamp-bracket-right-1932681-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4394,6 +4550,7 @@
    "base_numbers": [
     "1937545"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-wheel-liner-left-1937545-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-wheel-liner-left-1937545-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4422,6 +4579,7 @@
    "base_numbers": [
     "1937550"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-wheel-liner-right-1937550-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-wheel-liner-right-1937550-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4450,6 +4608,7 @@
    "base_numbers": [
     "1937565"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-inner-fender-liner-left-1937565-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-inner-fender-liner-left-1937565-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4478,6 +4637,7 @@
    "base_numbers": [
     "1937566"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-rear-inner-fender-liner-right-1937566-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-rear-inner-fender-liner-right-1937566-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4505,6 +4665,7 @@
    "base_numbers": [
     "1940191"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-tow-hook-cover-1940191-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-tow-hook-cover-1940191-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4534,6 +4695,7 @@
    "base_numbers": [
     "1081390"
    ],
+   "partslink": "TA1230100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-hood-assembly-1081390-e0-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-hood-assembly-1081390-e0-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4561,6 +4723,7 @@
    "base_numbers": [
     "1081401"
    ],
+   "partslink": "TA1240100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-fender-assembly-front-left-remanufactured-oe-1081401-e0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-fender-assembly-front-left-remanufactured-oe-1081401-e0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4588,6 +4751,7 @@
    "base_numbers": [
     "1081400"
    ],
+   "partslink": "TA1241100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-fender-assembly-front-right-remanufactured-oe-1081400-e0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-fender-assembly-front-right-remanufactured-oe-1081400-e0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4615,6 +4779,7 @@
    "base_numbers": [
     "1081401"
    ],
+   "partslink": "TA1240100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-fender-assembly-front-left-1081401-e0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-fender-assembly-front-left-1081401-e0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4642,6 +4807,7 @@
    "base_numbers": [
     "1081400"
    ],
+   "partslink": "TA1241100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-fender-assembly-front-right-1081400-e0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-fender-assembly-front-right-1081400-e0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4671,6 +4837,7 @@
    "base_numbers": [
     "1104667"
    ],
+   "partslink": "TA1006100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-beam-assembly-1104667-99-j/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-beam-assembly-1104667-99-j/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4700,6 +4867,7 @@
     "1084894",
     "1855514"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-bumper-ankle-catcher-1084894-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-bumper-ankle-catcher-1084894-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4730,6 +4898,7 @@
     "1095314",
     "1530484"
    ],
+   "partslink": "TA1106100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-bumper-beam-1095314-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-bumper-beam-1095314-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4758,6 +4927,7 @@
    "base_numbers": [
     "1088148"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-crush-can-assembly-left-1088148-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-crush-can-assembly-left-1088148-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4786,6 +4956,7 @@
    "base_numbers": [
     "1088149"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-crush-can-assembly-right-1088149-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-crush-can-assembly-right-1088149-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4816,6 +4987,7 @@
    "base_numbers": [
     "1109193"
    ],
+   "partslink": "TA1066100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-crush-can-front-subframe-1109193-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-crush-can-front-subframe-1109193-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4844,6 +5016,7 @@
    "base_numbers": [
     "1714047"
    ],
+   "partslink": "TA1230104",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-hood-1714047-e0-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-hood-1714047-e0-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4872,6 +5045,7 @@
    "base_numbers": [
     "1714884"
    ],
+   "partslink": "TA1240103",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-fender-left-1714884-e0-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-fender-left-1714884-e0-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4900,6 +5074,7 @@
    "base_numbers": [
     "1714888"
    ],
+   "partslink": "TA1241103",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-front-fender-right-1714888-e0-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-fender-right-1714888-e0-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4928,6 +5103,7 @@
    "base_numbers": [
     "1683943"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-crush-can-left-1683943-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-crush-can-left-1683943-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4956,6 +5132,7 @@
    "base_numbers": [
     "1683942"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-crush-can-right-1683942-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-crush-can-right-1683942-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -4984,6 +5161,7 @@
    "base_numbers": [
     "1493370"
    ],
+   "partslink": "TA1230102",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-hood-assembly-1493370-e0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-hood-assembly-1493370-e0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5012,6 +5190,7 @@
    "base_numbers": [
     "1493451"
    ],
+   "partslink": "TA1240101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-fender-assembly-left-1493451-e0-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-fender-assembly-left-1493451-e0-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5040,6 +5219,7 @@
    "base_numbers": [
     "1493452"
    ],
+   "partslink": "TA1241101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-fender-assembly-right-1493452-e0-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-fender-assembly-right-1493452-e0-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5070,6 +5250,7 @@
     "1487601",
     "1687601"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-bumper-beam-assembly-1487601-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-bumper-beam-assembly-1487601-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5098,6 +5279,7 @@
    "base_numbers": [
     "1505433"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-ankle-catcher-assembly-1505433-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-ankle-catcher-assembly-1505433-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5127,6 +5309,7 @@
    "base_numbers": [
     "1487616"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-bumper-beam-assembly-1487616-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-bumper-beam-assembly-1487616-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5159,6 +5342,7 @@
     "1487461",
     "1608453"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-bumper-reinforcement-crush-can-left-1487461-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-bumper-reinforcement-crush-can-left-1487461-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5191,6 +5375,7 @@
     "1487462",
     "1608454"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-bumper-reinforcement-crush-can-right-1487462-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-bumper-reinforcement-crush-can-right-1487462-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5220,6 +5405,7 @@
    "base_numbers": [
     "1934344"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-fender-assembly-left-1934344-e0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-fender-assembly-left-1934344-e0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5249,6 +5435,7 @@
    "base_numbers": [
     "1934345"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-fender-assembly-right-1934345-e0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-fender-assembly-right-1934345-e0-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5278,6 +5465,7 @@
    "base_numbers": [
     "1514952"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-headlight-left-1514952-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-headlight-left-1514952-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5307,6 +5495,7 @@
    "base_numbers": [
     "1514953"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-headlight-right-1514953-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-headlight-right-1514953-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5336,6 +5525,7 @@
     "1077375",
     "1077371"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-headlight-left-1077375-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-headlight-left-1077375-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5365,6 +5555,7 @@
     "1077376",
     "1077372"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-headlight-right-1077376-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-headlight-right-1077376-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5394,6 +5585,7 @@
    "base_numbers": [
     "1077397"
    ],
+   "partslink": "TA2804101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-tail-lamp-assembly-rear-bodyside-3-pin-left-1077397-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-tail-lamp-assembly-rear-bodyside-3-pin-left-1077397-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5423,6 +5615,7 @@
    "base_numbers": [
     "1077398"
    ],
+   "partslink": "TA2805101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-tail-lamp-assembly-rear-bodyside-3-pin-right-1077398-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-tail-lamp-assembly-rear-bodyside-3-pin-right-1077398-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5451,6 +5644,7 @@
    "base_numbers": [
     "1077401"
    ],
+   "partslink": "TA2802100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-inner-tail-lamp-3-pin-left-1077401-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-inner-tail-lamp-3-pin-left-1077401-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5479,6 +5673,7 @@
    "base_numbers": [
     "1077402"
    ],
+   "partslink": "TA2803100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-inner-tail-lamp-3-pin-right-1077402-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-inner-tail-lamp-3-pin-right-1077402-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5508,6 +5703,7 @@
     "1077406",
     "1732381"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-reflector-left-1077406-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-reflector-left-1077406-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5537,6 +5733,7 @@
     "1077407",
     "1732382"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-reflector-right-1077407-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-reflector-right-1077407-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5570,6 +5767,7 @@
     "1742864",
     "1085105"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-door-panel-reflector-1742864-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-door-panel-reflector-1742864-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5599,6 +5797,7 @@
     "1495817",
     "1626226"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-reflector-left-1495817-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-reflector-left-1495817-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5629,6 +5828,7 @@
     "1495818",
     "1626227"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-reflector-right-1495818-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-reflector-right-1495818-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5661,6 +5861,7 @@
     "1518783",
     "1100781"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-rear-quarter-reflector-trim-right-1518783-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-rear-quarter-reflector-trim-right-1518783-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5692,6 +5893,7 @@
     "1525134",
     "1566302"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-charge-port-door-outer-cover-panel-only-left-1525134-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-charge-port-door-outer-cover-panel-only-left-1525134-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5722,6 +5924,7 @@
     "1077391",
     "1624797"
    ],
+   "partslink": "TA2592101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-fog-light-left-1077391-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-fog-light-left-1077391-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5752,6 +5955,7 @@
     "1077392",
     "1624798"
    ],
+   "partslink": "TA2593101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-fog-light-right-1077392-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-fog-light-right-1077392-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5784,6 +5988,7 @@
     "1694086",
     "1760888"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-headlight-left-1694086-00-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-headlight-left-1694086-00-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5816,6 +6021,7 @@
     "1694087",
     "1760889"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-headlight-right-1694087-00-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-headlight-right-1694087-00-i/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5844,6 +6050,7 @@
    "base_numbers": [
     "1691498"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-liftgate-tail-lamp-left-1691498-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-liftgate-tail-lamp-left-1691498-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5871,6 +6078,7 @@
    "base_numbers": [
     "1691500"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-liftgate-tail-lamp-right-1691500-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-liftgate-tail-lamp-right-1691500-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5900,6 +6108,7 @@
    "base_numbers": [
     "1712513"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-fascia-tail-lamp-outer-left-1712513-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-fascia-tail-lamp-outer-left-1712513-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5929,6 +6138,7 @@
    "base_numbers": [
     "1712514"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-rear-fascia-tail-lamp-outer-right-1712514-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-rear-fascia-tail-lamp-outer-right-1712514-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5957,6 +6167,7 @@
    "base_numbers": [
     "1502086"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-tail-lamp-assembly-rear-bodyside-4-pin-left-1502086-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-tail-lamp-assembly-rear-bodyside-4-pin-left-1502086-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -5985,6 +6196,7 @@
    "base_numbers": [
     "1502087"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-tail-lamp-assembly-rear-bodyside-4-pin-right-1502087-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-tail-lamp-assembly-rear-bodyside-4-pin-right-1502087-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6013,6 +6225,7 @@
    "base_numbers": [
     "1502088"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-tail-lamp-assembly-liftgate-4-pin-left-1502088-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-tail-lamp-assembly-liftgate-4-pin-left-1502088-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6041,6 +6254,7 @@
    "base_numbers": [
     "1502089"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-tail-lamp-assembly-liftgate-4-pin-right-1502089-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-tail-lamp-assembly-liftgate-4-pin-right-1502089-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6070,6 +6284,7 @@
    "base_numbers": [
     "1918347"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-headlight-premium-left-1918347-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-headlight-premium-left-1918347-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6098,6 +6313,7 @@
    "base_numbers": [
     "1918348"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-headlight-premium-right-1918348-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-headlight-premium-right-1918348-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6126,6 +6342,7 @@
    "base_numbers": [
     "2038294"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-front-lightbar-2038294-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-front-lightbar-2038294-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6158,6 +6375,7 @@
     "1107681",
     "1813371"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-cabin-air-filter-set-of-2-1107681-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-cabin-air-filter-set-of-2-1107681-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6187,6 +6405,7 @@
    "base_numbers": [
     "1658375"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-hepa-cabin-air-filter-set-of-2-1658375-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-hepa-cabin-air-filter-set-of-2-1658375-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6218,6 +6437,7 @@
    "base_numbers": [
     "1490701"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-tire-pressure-sensor-2-year-warranty-1490701-01-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-tire-pressure-sensor-2-year-warranty-1490701-01-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6246,6 +6466,7 @@
    "base_numbers": [
     "1092290"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-side-mirror-cover-white-left-1092290-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-side-mirror-cover-white-left-1092290-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6274,6 +6495,7 @@
    "base_numbers": [
     "1092292"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-side-mirror-cover-white-right-1092292-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-side-mirror-cover-white-right-1092292-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6302,6 +6524,7 @@
    "base_numbers": [
     "1092290"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-side-mirror-cover-black-left-1092290-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-side-mirror-cover-black-left-1092290-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6330,6 +6553,7 @@
    "base_numbers": [
     "1092292"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-side-mirror-cover-black-right-1092292-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-side-mirror-cover-black-right-1092292-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6358,6 +6582,7 @@
    "base_numbers": [
     "1092290"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-side-mirror-cover-gray-left-1092290-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-side-mirror-cover-gray-left-1092290-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6386,6 +6611,7 @@
    "base_numbers": [
     "1092292"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-highland-side-mirror-cover-gray-right-1092292-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-side-mirror-cover-gray-right-1092292-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6413,6 +6639,7 @@
    "base_numbers": [
     "1495593"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-side-mirror-cover-white-left-1495593-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-side-mirror-cover-white-left-1495593-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6440,6 +6667,7 @@
    "base_numbers": [
     "1495594"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-side-mirror-cover-white-right-1495594-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-side-mirror-cover-white-right-1495594-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6467,6 +6695,7 @@
    "base_numbers": [
     "1495593"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-side-mirror-cover-black-left-1495593-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-side-mirror-cover-black-left-1495593-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6494,6 +6723,7 @@
    "base_numbers": [
     "1495594"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-side-mirror-cover-black-right-1495594-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-side-mirror-cover-black-right-1495594-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6521,6 +6751,7 @@
    "base_numbers": [
     "1495593"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-side-mirror-cover-gray-left-1495593-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-side-mirror-cover-gray-left-1495593-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6548,6 +6779,7 @@
    "base_numbers": [
     "1495594"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-side-mirror-cover-gray-right-1495594-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-side-mirror-cover-gray-right-1495594-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6575,6 +6807,7 @@
    "base_numbers": [
     "1963538"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-side-mirror-cover-white-left-1963538-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-side-mirror-cover-white-left-1963538-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6602,6 +6835,7 @@
    "base_numbers": [
     "1963539"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-side-mirror-cover-white-right-1963539-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-side-mirror-cover-white-right-1963539-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6629,6 +6863,7 @@
    "base_numbers": [
     "1963538"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-side-mirror-cover-black-left-1963538-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-side-mirror-cover-black-left-1963538-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6656,6 +6891,7 @@
    "base_numbers": [
     "1963539"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-side-mirror-cover-black-right-1963539-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-side-mirror-cover-black-right-1963539-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6683,6 +6919,7 @@
    "base_numbers": [
     "1963538"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-side-mirror-cover-gray-left-1963538-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-side-mirror-cover-gray-left-1963538-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6710,6 +6947,7 @@
    "base_numbers": [
     "1963539"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-side-mirror-cover-gray-right-1963539-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-side-mirror-cover-gray-right-1963539-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6739,6 +6977,7 @@
    "base_numbers": [
     "1299965"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-pedestrian-warning-speaker-25w-1299965-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-pedestrian-warning-speaker-25w-1299965-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6770,6 +7009,7 @@
    "base_numbers": [
     "1671113"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-pedestrian-warning-speaker-50w-1671113-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-pedestrian-warning-speaker-50w-1671113-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6800,6 +7040,7 @@
    "base_numbers": [
     "1786321"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-seat-adjustment-switch-assembly-8-way-left-1786321-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-seat-adjustment-switch-assembly-8-way-left-1786321-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6831,6 +7072,7 @@
    "base_numbers": [
     "1786322"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-seat-adjustment-switch-assembly-8-way-right-1786322-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-seat-adjustment-switch-assembly-8-way-right-1786322-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6861,6 +7103,7 @@
    "base_numbers": [
     "1619322"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-electric-water-pump-1619322-s0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-electric-water-pump-1619322-s0-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6888,6 +7131,7 @@
    "base_numbers": [
     "1098792"
    ],
+   "partslink": "TA1236100",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-hood-hinge-left-1098792-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-hood-hinge-left-1098792-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6915,6 +7159,7 @@
    "base_numbers": [
     "1098793"
    ],
+   "partslink": "TA1236101",
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-hood-hinge-right-1098793-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-hood-hinge-right-1098793-00-d/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6942,6 +7187,7 @@
    "base_numbers": [
     "1643845"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-hood-hinge-active-left-1643845-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-hood-hinge-active-left-1643845-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6969,6 +7215,7 @@
    "base_numbers": [
     "1643846"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-hood-hinge-active-right-1643846-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-hood-hinge-active-right-1643846-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -6997,6 +7244,7 @@
    "base_numbers": [
     "1496267"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-hood-hinge-left-1496267-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-hood-hinge-left-1496267-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7025,6 +7273,7 @@
    "base_numbers": [
     "1496268"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-hood-hinge-right-1496268-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-hood-hinge-right-1496268-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7052,6 +7301,7 @@
    "base_numbers": [
     "1943663"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-hood-hinge-left-1943663-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-hood-hinge-left-1943663-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7079,6 +7329,7 @@
    "base_numbers": [
     "1943664"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-juniper-hood-hinge-right-1943664-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-juniper-hood-hinge-right-1943664-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7108,6 +7359,7 @@
    "base_numbers": [
     "1494175"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-radiator-1494175-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-radiator-1494175-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7139,6 +7391,7 @@
    "base_numbers": [
     "1607807"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-cooling-fan-and-shroud-assembly-1607807-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-cooling-fan-and-shroud-assembly-1607807-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7167,6 +7420,7 @@
    "base_numbers": [
     "1044411"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-knuckle-left-1044411-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-knuckle-left-1044411-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7195,6 +7449,7 @@
    "base_numbers": [
     "1044416"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-rear-knuckle-right-1044416-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-rear-knuckle-right-1044416-00-h/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7223,6 +7478,7 @@
    "base_numbers": [
     "1044311"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-steering-knuckle-left-1044311-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-steering-knuckle-left-1044311-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7250,6 +7506,7 @@
    "base_numbers": [
     "1044316"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-front-steering-knuckle-right-1044316-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-front-steering-knuckle-right-1044316-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7280,6 +7537,7 @@
     "1188411",
     "1288411"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-knuckle-left-1188411-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-knuckle-left-1188411-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7312,6 +7570,7 @@
     "1288416",
     "1288417"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-rear-knuckle-right-1188416-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-rear-knuckle-right-1188416-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7341,6 +7600,7 @@
    "base_numbers": [
     "2188311"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-knuckle-left-2188311-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-knuckle-left-2188311-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7370,6 +7630,7 @@
    "base_numbers": [
     "2188316"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-front-knuckle-right-2188316-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-front-knuckle-right-2188316-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7400,6 +7661,7 @@
    "base_numbers": [
     "1044341"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-lower-lateral-link-1044341-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-lower-lateral-link-1044341-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7429,6 +7691,7 @@
    "base_numbers": [
     "1188341"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-lower-lateral-link-1188341-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-lower-lateral-link-1188341-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7461,6 +7724,7 @@
     "2188354",
     "1044354"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-lower-compliance-link-left-2188354-20-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-lower-compliance-link-left-2188354-20-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7493,6 +7757,7 @@
     "2188359",
     "1044359"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-lower-compliance-link-right-2188359-20-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-lower-compliance-link-right-2188359-20-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7524,6 +7789,7 @@
     "1044321",
     "1188321"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-upper-control-arm-left-1044321-00-j/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-upper-control-arm-left-1044321-00-j/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7555,6 +7821,7 @@
     "1044326",
     "1188326"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-upper-control-arm-right-1044326-00-j/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-upper-control-arm-right-1044326-00-j/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7586,6 +7853,7 @@
    "base_numbers": [
     "1188391"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-stabilizer-bar-link-left-1188391-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-stabilizer-bar-link-left-1188391-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7617,6 +7885,7 @@
    "base_numbers": [
     "1188396"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-stabilizer-bar-link-right-1188396-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-stabilizer-bar-link-right-1188396-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7649,6 +7918,7 @@
     "1044491",
     "1288491"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-rear-stabilizer-bar-link-left-1044491-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-rear-stabilizer-bar-link-left-1044491-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7681,6 +7951,7 @@
     "1044496",
     "1288496"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-rear-stabilizer-bar-link-right-1044496-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-rear-stabilizer-bar-link-right-1044496-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7711,6 +7982,7 @@
    "base_numbers": [
     "2188341"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-lower-lateral-link-zf-lemf-rder-oem-2188341-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-lower-lateral-link-zf-lemf-rder-oem-2188341-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7741,6 +8013,7 @@
    "base_numbers": [
     "2188354"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-lower-compliance-link-left-zf-lemf-rder-oem-2188354-10-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-lower-compliance-link-left-zf-lemf-rder-oem-2188354-10-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7771,6 +8044,7 @@
    "base_numbers": [
     "2188359"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-lower-compliance-link-right-zf-lemf-rder-oem-2188359-10-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-lower-compliance-link-right-zf-lemf-rder-oem-2188359-10-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7801,6 +8075,7 @@
    "base_numbers": [
     "1188321"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-upper-control-arm-left-zf-lemf-rder-oem-1188321-10-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-upper-control-arm-left-zf-lemf-rder-oem-1188321-10-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7831,6 +8106,7 @@
    "base_numbers": [
     "1188326"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-front-upper-control-arm-right-zf-lemf-rder-oem-1188326-10-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-upper-control-arm-right-zf-lemf-rder-oem-1188326-10-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7861,6 +8137,7 @@
     "1044441",
     "1288441"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-rear-lower-fore-link-1044441-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-rear-lower-fore-link-1044441-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7890,6 +8167,7 @@
    "base_numbers": [
     "1044427"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-rear-upper-fore-link-1044427-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-rear-upper-fore-link-1044427-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7923,6 +8201,7 @@
     "1288423",
     "1044423"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-rear-upper-aft-link-1188423-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-rear-upper-aft-link-1188423-00-a/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7952,6 +8231,7 @@
    "base_numbers": [
     "1044431"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-rear-toe-link-1044431-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-rear-toe-link-1044431-00-g/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -7981,6 +8261,7 @@
    "base_numbers": [
     "1044451"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-rear-lower-aft-link-1044451-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-rear-lower-aft-link-1044451-00-f/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -8009,6 +8290,7 @@
    "base_numbers": [
     "1044122"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-wheel-hub-bearing-non-drive-2wd-1044122-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-wheel-hub-bearing-non-drive-2wd-1044122-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -8040,6 +8322,7 @@
    "base_numbers": [
     "1044121"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-3-y-wheel-hub-bearing-drive-4wd-1044121-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-wheel-hub-bearing-drive-4wd-1044121-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -8069,6 +8352,7 @@
    "base_numbers": [
     "1658376"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-activated-carbon-cabin-air-filter-set-of-2-1658376-20-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-activated-carbon-cabin-air-filter-set-of-2-1658376-20-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
@@ -8101,6 +8385,7 @@
     "1658375",
     "1658376"
    ],
+   "partslink": null,
    "url": {
     "en": "https://maplev.ca/parts/tesla-model-y-hepa-carbon-cabin-air-filter-set-1658375-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
     "fr": "https://maplev.ca/fr/parts/tesla-model-y-hepa-carbon-cabin-air-filter-set-1658375-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
