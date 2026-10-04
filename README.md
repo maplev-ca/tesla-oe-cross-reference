@@ -1,10 +1,16 @@
-# Tesla Model 3 and Model Y OE cross-reference
+# Tesla OE cross reference — Tesla Model 3 and Model Y part numbers (open dataset)
 
-Tesla OE (original equipment) part numbers for Tesla Model 3 and Model Y collision
-and suspension parts, grouped by part, with the cars and production dates each part
-fits. It is the data behind the free part finder at
-[maplev.ca/oe-lookup](https://maplev.ca/oe-lookup/), published by MapleV, an
-independent Tesla parts supplier in Richmond, British Columbia that ships across Canada.
+**Tesla part number lookup data:** Tesla OE (original equipment) part numbers and
+Partslink numbers for Tesla Model 3 and Model Y collision and suspension parts, grouped
+by part, with the cars and production dates each part fits. Use it to cross-reference a
+Tesla OE number from a collision estimate to the part it belongs to, or to find every
+Tesla part number a bumper, fender, headlight or tail light has carried. It is the data
+behind the free [Tesla part finder](https://maplev.ca/oe-lookup/) at maplev.ca, published
+by MapleV, an independent Tesla collision parts supplier in Richmond, British Columbia,
+Canada that ships to every province.
+
+Keywords: Tesla OE cross reference · Tesla part number lookup · Tesla Model 3 parts ·
+Tesla Model Y parts · Partslink · collision parts · open data · CSV · JSON · Canada
 
 - 282 parts, 513 Tesla OE numbers, 343 base numbers (as of 2026-10-03)
 - Partslink numbers for 76 of the parts
