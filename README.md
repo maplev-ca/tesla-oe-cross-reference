@@ -12,7 +12,7 @@ Canada that ships to every province.
 Keywords: Tesla OE cross reference · Tesla part number lookup · Tesla Model 3 parts ·
 Tesla Model Y parts · Partslink · collision parts · open data · CSV · JSON · Canada
 
-- 282 parts, 513 Tesla OE numbers, 343 base numbers (as of 2026-10-03)
+- 282 parts, 513 Tesla OE numbers, 343 base numbers (as of 2026-10-13)
 - Partslink numbers for 76 of the parts
 - Part names in English and French
 - CSV and JSON
@@ -52,6 +52,11 @@ independent sources. Numbers we could not confirm were removed.
 We update this repository when the catalogue changes; the date of the data is in the
 JSON file (`meta.as_of`). The dated snapshots at maplev.ca/data/ are frozen and are not
 updated, so where the two differ, this repository is the current one.
+
+Latest change, 2026-10-13: the three front lower lateral links were corrected. P-270
+(1044341) fits the Model 3 and Model 3 Highland only. P-271 (1188341) and P-280 (2188341)
+fit the Model Y and Model Y Juniper only. The Model 3 and Model Y links do not
+interchange.
 
 ## Partslink numbers
 

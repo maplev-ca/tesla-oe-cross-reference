@@ -6,7 +6,7 @@
   "credit": "Tesla OE cross-reference by MapleV (maplev.ca)",
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
-  "as_of": "2026-10-03",
+  "as_of": "2026-10-13",
   "parts": 282,
   "oe_numbers": 513,
   "base_numbers": 343,
@@ -7646,12 +7646,11 @@
    "category": "Suspension Parts",
    "models": [
     "Model 3",
-    "Model 3 Highland",
-    "Model Y"
+    "Model 3 Highland"
    ],
    "fitment": {
-    "en": "Tesla Model 3, Tesla Model 3 Highland, Tesla Model Y · Jun 2017 – Dec 2023 · Jan 2024– · Jan 2020 – Jan 2025",
-    "fr": "Tesla Model 3, Tesla Model 3 Highland, Tesla Model Y · juin 2017 – déc. 2023 · janv. 2024– · janv. 2020 – janv. 2025"
+    "en": "Tesla Model 3, Tesla Model 3 Highland · Jun 2017 – Dec 2023 · Jan 2024–",
+    "fr": "Tesla Model 3, Tesla Model 3 Highland · juin 2017 – déc. 2023 · janv. 2024–"
    },
    "side": "",
    "tesla_oe_numbers": [
@@ -7663,8 +7662,8 @@
    ],
    "partslink": null,
    "url": {
-    "en": "https://maplev.ca/parts/tesla-model-3-y-front-lower-lateral-link-1044341-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
-    "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-front-lower-lateral-link-1044341-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
+    "en": "https://maplev.ca/parts/tesla-model-3-highland-front-lower-lateral-link-1044341-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
+    "fr": "https://maplev.ca/fr/parts/tesla-model-3-highland-front-lower-lateral-link-1044341-00-e/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
    },
    "source": "MapleV (maplev.ca)"
   },
@@ -7676,13 +7675,12 @@
    },
    "category": "Suspension Parts",
    "models": [
-    "Model 3",
-    "Model 3 Highland",
-    "Model Y"
+    "Model Y",
+    "Model Y Juniper"
    ],
    "fitment": {
-    "en": "Tesla Model 3, Tesla Model 3 Highland, Tesla Model Y · Jun 2017 – Dec 2023 · Jan 2024– · Jan 2020 – Jan 2025",
-    "fr": "Tesla Model 3, Tesla Model 3 Highland, Tesla Model Y · juin 2017 – déc. 2023 · janv. 2024– · janv. 2020 – janv. 2025"
+    "en": "Tesla Model Y, Tesla Model Y Juniper · Jan 2020 – Jan 2025 · Feb 2025–",
+    "fr": "Tesla Model Y, Tesla Model Y Juniper · janv. 2020 – janv. 2025 · févr. 2025–"
    },
    "side": "",
    "tesla_oe_numbers": [
@@ -7693,8 +7691,8 @@
    ],
    "partslink": null,
    "url": {
-    "en": "https://maplev.ca/parts/tesla-model-3-y-lower-lateral-link-1188341-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
-    "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-lower-lateral-link-1188341-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
+    "en": "https://maplev.ca/parts/tesla-model-y-lower-lateral-link-1188341-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
+    "fr": "https://maplev.ca/fr/parts/tesla-model-y-lower-lateral-link-1188341-00-c/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
    },
    "source": "MapleV (maplev.ca)"
   },
@@ -7967,13 +7965,11 @@
    "category": "Suspension Parts",
    "models": [
     "Model Y Juniper",
-    "Model Y",
-    "Model 3",
-    "Model 3 Highland"
+    "Model Y"
    ],
    "fitment": {
-    "en": "Tesla Model Y Juniper, Tesla Model Y, Tesla Model 3, Tesla Model 3 Highland · Feb 2025– · Jan 2020 – Jan 2025 · Jun 2017 – Dec 2023 · Jan 2024–",
-    "fr": "Tesla Model Y Juniper, Tesla Model Y, Tesla Model 3, Tesla Model 3 Highland · févr. 2025– · janv. 2020 – janv. 2025 · juin 2017 – déc. 2023 · janv. 2024–"
+    "en": "Tesla Model Y Juniper, Tesla Model Y · Feb 2025– · Jan 2020 – Jan 2025",
+    "fr": "Tesla Model Y Juniper, Tesla Model Y · févr. 2025– · janv. 2020 – janv. 2025"
    },
    "side": "",
    "tesla_oe_numbers": [
@@ -7984,8 +7980,8 @@
    ],
    "partslink": null,
    "url": {
-    "en": "https://maplev.ca/parts/tesla-model-3-y-lower-lateral-link-zf-lemf-rder-oem-2188341-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
-    "fr": "https://maplev.ca/fr/parts/tesla-model-3-y-lower-lateral-link-zf-lemf-rder-oem-2188341-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
+    "en": "https://maplev.ca/parts/tesla-model-y-lower-lateral-link-zf-lemf-rder-oem-2188341-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference",
+    "fr": "https://maplev.ca/fr/parts/tesla-model-y-lower-lateral-link-zf-lemf-rder-oem-2188341-00-b/?utm_source=oe-dataset&utm_medium=dataset&utm_campaign=oe-cross-reference"
    },
    "source": "MapleV (maplev.ca)"
   },
